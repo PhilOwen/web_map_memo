@@ -1,0 +1,13 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Otemachi" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.7685, 35.6859]
+      }
+    }
+  ]
+}
