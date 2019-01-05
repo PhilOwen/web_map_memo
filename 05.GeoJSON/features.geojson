@@ -1,0 +1,32 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Yotsuya Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.7302, 35.68645]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sotobori dori"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [139.7303,  35.6894],
+          [139.7291,  35.684],
+          [139.7333,  35.6786],
+          [139.7366,  35.6783],
+          [139.7392,  35.6734],
+          [139.7425,  35.6712]
+        ]
+      }
+    }
+  ]
+}
