@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "properties": {},
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tokyo",
+        "population": 13350000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.6917, 35.6895]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fukuoka",
+        "population": 1460000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [130.4183, 33.6066]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sapporo",
+        "population": 1910000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.3544, 43.0621]
+      }
+    }
+  ]
+}
